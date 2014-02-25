@@ -32,3 +32,6 @@ sys_DelCustAttrib 6, 100010001
 sys_SetCustAttrib 6, 2746550, -1, -1
 
 exec sbl_MakePointsTransaction 2746550, 500, 'WebReg', 'Activation Bonus Points'
+
+
+123
