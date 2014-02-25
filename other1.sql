@@ -35,3 +35,4 @@ exec sbl_MakePointsTransaction 2746550, 500, 'WebReg', 'Activation Bonus Points'
 
 
 123
+543
